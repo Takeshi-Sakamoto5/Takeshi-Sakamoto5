@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Takeshi-Sakamoto5.
 
-<!--
-**Takeshi-Sakamoto5/Takeshi-Sakamoto5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I explore what can be built through pure natural-language interaction with advanced AIs.
 
-Here are some ideas to get you started:
+PolyAgora — my main project — was created during a two-day trip, entirely through conversation with GPT-5.1. No code, no plan; just iterative dialogue and emergent structure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- multi-agent systems  
+- natural-language OS design  
+- conversational architecture  
+- emergent behavior in AI  
+- human–AI co-creation  
+
+Currently experimenting with:
+- natural-language-based system design  
+- conversational reasoning models  
+- long-form AI interaction patterns  
+
+Always open to feedback, ideas, and collaboration.
