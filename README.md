@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Takeshi-Sakamoto5**
+# 👋 Hi, I'm **Masaya Ochiai**
 
 I design **cognitive operating systems** using *only natural language*.
 
